@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="285" height="206" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient y2="0.789063" x2="0" y1="0.007813" x1="0.401062" spreadMethod="pad" id="svg_14">
+   <stop offset="0.014343" stop-opacity="0.996094" stop-color="#ff56aa"/>
+   <stop offset="0.557312" stop-opacity="0.996094" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_7" height="199.125005" width="272.812507" y="3.750015" x="1.812448" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ff56aa" fill="url(#svg_14)"/>
+  <text stroke="#000000" transform="matrix(5.136549949645996,0,0,5.136549949645996,-1752.4752396047115,-1178.916735649109) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="256.638016" x="367.868676" stroke-width="0" fill="#000000">NB</text>
+  <line id="svg_4" y2="3" x2="284.007092" y1="3" x1="2" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="10" stroke="#ff56aa" fill="none"/>
+  <line id="svg_5" y2="208.312288" x2="278.734375" y1="3.15625" x1="278.734375" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="10" stroke="#ff56aa" fill="none"/>
+  <line id="svg_6" y2="203.15625" x2="126.669754" y1="203.15625" x1="277.679688" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="10" stroke="#ff56aa" fill="none"/>
+ </g>
+</svg>
